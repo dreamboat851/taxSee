@@ -1,0 +1,4 @@
+superkingdom,kingdom,subkingdom,superphylum,phylum,subphylum,superclass,class,subclass,superorder,order,suborder,superfamily,family,subfamily,tribe,subtribe,genus,subgenus,species,subspecies,taxid
+Bacteria,n,n,n,Proteobacteria,n,n,Gammaproteobacteria,n,n,Enterobacterales,n,n,Enterobacteriaceae,n,n,n,Escherichia,n,Escherichia coli,n,562
+Bacteria,n,n,n,Actinobacteria,n,n,Actinobacteria,n,n,Corynebacteriales,n,n,Mycobacteriaceae,n,n,n,Mycobacterium,n,Mycobacterium tuberculosis,n,1773
+Eukaryota,Viridiplantae,n,n,Streptophyta,Streptophytina,n,n,rosids,n,Brassicales,n,n,Brassicaceae,n,Camelineae,n,Arabidopsis,n,Arabidopsis thaliana,n,3702
